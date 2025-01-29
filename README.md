@@ -5,9 +5,9 @@
 </p>
 
 ## 🧐 About Me
-- 🎓 **Computer Science student at Kaimosi University**.
+- 🎓 **Mathematics with Computing Student **.
 - 👨‍💻 Passionate about **Software Development & Data Science**.
-- 💡 I specialize in **C programming, Visual Basic, Python & App Development**.
+- 💡 I specialize in **Java programming, Visual Basic, Python & App Development**.
 - 📖 I love **learning new technologies & solving problems**.
 - 🎵 **RnB music lover** 🎶.
 
